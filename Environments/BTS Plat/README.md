@@ -3,5 +3,5 @@ You may recognize this environment from "The 15 Sublimit" map Mawntee and myself
 environment!
 
 <h1> Static Environment</h1>
-<img src="https://raw.github.com/LonelyCen/Lonelys-Environments/blob/main/Environments/BTS%20Plat/BTS%20Example.png">
+<img src="https://github.com/LonelyCen/Lonelys-Environments/blob/main/Environments/BTS%20Plat/BTS%20Example.png">
 
