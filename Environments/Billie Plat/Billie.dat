@@ -1,0 +1,354 @@
+"_environment": [{
+                "_id": ".*Environment\\.\\[\\d*\\]Waterfall\\.\\[\\d*\\]WaterfallFalling$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]Waterfall$",
+                "_lookupMethod": "Regex",
+                "_scale": [500, 1, 1],
+                "_position": [1.6, 0, -80]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]Waterfall$",
+                "_lookupMethod": "Regex",
+                "_duplicate": 1,
+                "_scale": [500, 1, 1],
+                "_position": [1.6, 25, -80],
+                "_rotation": [0, 0, 180]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]DayAndNight\\.\\[\\d*\\]Night$",
+                "_lookupMethod": "Regex",
+                "_scale": [0.9, 0.9, 0.9],
+                "_position": [0, 9.12, 0]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]DayAndNight\\.\\[\\d*\\]Night\\.\\[\\d*\\]Moon$",
+                "_lookupMethod": "Regex",
+                "_scale": [1.5, 1.5, 1],
+                "_position": [0, 18.256, 138.24],
+                "_localPosition": [0, 10.16, 153.6]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]Clouds$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 1, 50],
+                "_position": [0, -72, 0]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]Mountains$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[31]LightRailingSegment$",
+                "_lookupMethod": "Regex",
+                "_scale": [5, 5, 50],
+                "_position": [0, 160, 56],
+                "_rotation": [77, 0, 0]
+            }, {
+                "_id": ".*Environment\\.\\[31]LightRailingSegment\\.\\[1]NeonTubeDirectionalL$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 1, 1],
+                "_position": [-12.8, -157.808, 127.456],
+                "_localPosition": [-2.56, 0.352, 6.4],
+                "_rotation": [9.15, 225.7, 9.27],
+                "_localRotation": [45, 270, 90]
+            }, {
+                "_id": ".*Environment\\.\\[31]LightRailingSegment\\.\\[2]NeonTubeDirectionalR$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 1, 1],
+                "_position": [12.8, -157.808, 127.456],
+                "_localPosition": [2.56, 0.352, 6.4],
+                "_rotation": [9.15, 225.7, 9.27],
+                "_localRotation": [45, 270, 90]
+            }, {
+                "_id": ".*Environment\\.\\[32]LightRailingSegment \\(1\\)$",
+                "_lookupMethod": "Regex",
+                "_scale": [5, 5, 50],
+                "_position": [0, 160, 64],
+                "_rotation": [77, 0, 0]
+            }, {
+                "_id": ".*Environment\\.\\[32]LightRailingSegment \\(1\\)\\.\\[1]NeonTubeDirectionalL$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 1, 1],
+                "_position": [-25.6, -157.808, 135.424],
+                "_localPosition": [-5.12, 0.352, 6.4],
+                "_rotation": [9.15, 225.7, 9.27],
+                "_localRotation": [45, 270, 90]
+            }, {
+                "_id": ".*Environment\\.\\[32]LightRailingSegment \\(1\\)\\.\\[2]NeonTubeDirectionalR$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 1, 1],
+                "_position": [25.6, -157.808, 135.424],
+                "_localPosition": [5.12, 0.352, 6.4],
+                "_rotation": [9.15, 225.7, 9.27],
+                "_localRotation": [45, 270, 90]
+            }, {
+                "_id": ".*Environment\\.\\[33]LightRailingSegment \\(2\\)$",
+                "_lookupMethod": "Regex",
+                "_scale": [5, 5, 50],
+                "_position": [0, 160, 72],
+                "_rotation": [77, 0, 0]
+            }, {
+                "_id": ".*Environment\\.\\[33]LightRailingSegment \\(2\\)\\.\\[1]NeonTubeDirectionalL$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 1, 1],
+                "_position": [-38.4, -157.808, 142.816],
+                "_localPosition": [-7.68, 0.352, 6.4],
+                "_rotation": [9.15, 225.7, 9.27],
+                "_localRotation": [45, 270, 90]
+            }, {
+                "_id": ".*Environment\\.\\[33]LightRailingSegment \\(2\\)\\.\\[2]NeonTubeDirectionalR$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 1, 1],
+                "_position": [38.4, -157.808, 142.816],
+                "_localPosition": [7.68, 0.352, 6.4],
+                "_rotation": [9.15, 225.7, 9.27],
+                "_localRotation": [45, 270, 90]
+            }, {
+                "_id": ".*Environment\\.\\[34]LightRailingSegment \\(3\\)$",
+                "_lookupMethod": "Regex",
+                "_scale": [5, 5, 50],
+                "_position": [0, 160, 80],
+                "_rotation": [77, 0, 0]
+            }, {
+                "_id": ".*Environment\\.\\[34]LightRailingSegment \\(3\\)\\.\\[1]NeonTubeDirectionalL$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 1, 1],
+                "_position": [-51.2, 154, 78.512],
+                "_localPosition": [-10.24, 0.352, 0],
+                "_rotation": [9.15, 225.7, 9.27],
+                "_localRotation": [45, 270, 90]
+            }, {
+                "_id": ".*Environment\\.\\[34]LightRailingSegment \\(3\\)\\.\\[2]NeonTubeDirectionalR$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 1, 1],
+                "_position": [51.2, 37.072, 105.504],
+                "_localPosition": [10.24, 0.352, 2.4],
+                "_rotation": [9.15, 225.7, 9.27],
+                "_localRotation": [45, 270, 90]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]LeftRail$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RightRail$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PlayersPlace\\.\\[\\d*\\]Mirror$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PlayersPlace\\.\\[\\d*\\]Construction$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PlayersPlace\\.\\[\\d*\\]RectangleFakeGlow$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PlayersPlace\\.\\[\\d*\\]Frame$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PlayersPlace\\.\\[\\d*\\]SaberBurnMarksParticles",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PlayersPlace\\.\\[\\d*\\]SaberBurnMarksArea$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PlayersPlace\\.\\[\\d*\\]Collider$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]LeftFarRail1$",
+                "_lookupMethod": "Regex",
+                "_scale": [5, 5, 5],
+                "_position": [-30, 8, 80],
+                "_rotation": [280, 180, 180]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]LeftFarRail2$",
+                "_lookupMethod": "Regex",
+                "_scale": [5, 5, 0.15],
+                "_position": [-35.168, 12.6, 80],
+                "_rotation": [0, 90, 0]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RightFarRail1$",
+                "_lookupMethod": "Regex",
+                "_scale": [5, 5, 5],
+                "_position": [30, 8, 80],
+                "_rotation": [280, 180, 180]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RightFarRail2$",
+                "_lookupMethod": "Regex",
+                "_scale": [5, 5, 0.15],
+                "_position": [24.5, 12.6, 80],
+                "_rotation": [0, 90, 0]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RailingFullBack$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RailingFullFront$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]DayAndNight\\.\\[\\d*\\]Day$",
+                "_lookupMethod": "Regex",
+                "_scale": [0.1, 1, 1],
+                "_position": [0, -14.4, -120]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]LightRailingSegment\\.\\[\\d*\\]RailingCurveF$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]LightRailingSegment \\(1\\)\\.\\[\\d*\\]RailingCurveF$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]LightRailingSegment \\(2\\)\\.\\[\\d*\\]RailingCurveF$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]LightRailingSegment \\(3\\)\\.\\[\\d*\\]RailingCurveF$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BigSmokePS$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 0.2, 1]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers\\.\\[\\d*\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [8, -4.192, 46.4],
+                "_localPosition": [8, 0.608, 0],
+                "_rotation": [0, 17.14, 297.8]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers\\.\\[\\d*\\]PillarR$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [-2.32, -4.8, 46.4],
+                "_localPosition": [-2.32, 0, 0],
+                "_rotation": [0, 314, 96.44]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(1\\)\\.\\[\\d*\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [-24, -24, 56],
+                "_localPosition": [-24, -19.2, 1.6],
+                "_rotation": [20, 340, 280.7]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(1\\)\\.\\[\\d*\\]PillarR$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [-7.12, -24, 54.4],
+                "_localPosition": [-7.12, -19.2, 0],
+                "_rotation": [68.57, 142.5, 79.3]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(2\\)\\.\\[\\d*\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [-24, -24, 48],
+                "_localPosition": [-24, -19.2, -14.4],
+                "_rotation": [77.14, 63.13, 280.7]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(2\\)\\.\\[\\d*\\]PillarR$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [40, 40, 62.4],
+                "_localPosition": [40, 44.8, 0],
+                "_rotation": [349.4, 0, 250.7]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(3\\)\\.\\[\\d*\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [24, -24, 70.4],
+                "_localPosition": [24, -19.2, 0],
+                "_rotation": [60, 205.7, 246.4]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(3\\)\\.\\[\\d*\\]PillarR$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [16, -24, 86.4],
+                "_localPosition": [16, -19.2, 16],
+                "_rotation": [0, 0, 120]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(4\\)\\.\\[\\d*\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [16, -8, 78.4],
+                "_localPosition": [16, -3.2, 0],
+                "_rotation": [0, 28.85, 297.8]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(4\\)\\.\\[\\d*\\]PillarR$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [72, 24, 78.4],
+                "_localPosition": [72, 28.8, 0],
+                "_rotation": [0, 34.29, 216.4]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(5\\)\\.\\[\\d*\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [16, -8, 78.4],
+                "_localPosition": [16, -3.2, 0],
+                "_rotation": [0, 28.85, 297.8]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(5\\)\\.\\[\\d*\\]PillarR$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [88, -4.8, 86.4],
+                "_localPosition": [88, 0, 0],
+                "_rotation": [0, 108.2, 10.73]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(6\\)\\.\\[\\d*\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [2.32, -4.8, 94.4],
+                "_localPosition": [2.32, 0, 0],
+                "_rotation": [349.4, 303.1, 246.4]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(6\\)\\.\\[\\d*\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [-2.32, -4.8, 94.4],
+                "_localPosition": [-2.32, 0, 0],
+                "_rotation": [349.4, 314, 96.44]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(7\\)\\.\\[\\d*\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [2.32, 32, 102.4],
+                "_localPosition": [2.32, 36.8, 0],
+                "_rotation": [349.4, 45.99, 160.7]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(7\\)\\.\\[\\d*\\]PillarR$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [-1.152, 24, 102.4],
+                "_localPosition": [-1.152, 28.8, 0],
+                "_rotation": [332.3, 262.5, 199.3]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(8\\)\\.\\[\\d*\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [-40, 24, 110.4],
+                "_localPosition": [-40, 28.8, 0],
+                "_rotation": [349.4, 11.7, 160.7]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomPairLasers \\(8\\)\\.\\[\\d*\\]PillarR$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [20.8, 52.8, 78.4],
+                "_localPosition": [20.8, 57.6, -32],
+                "_rotation": [280.8, 0, 128.5]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]Rain$",
+                "_lookupMethod": "Regex",
+                "_position": [0, -8, 0],
+                "_rotation": [0, 0, 180]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]WaterRainRipples$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }
+        ]

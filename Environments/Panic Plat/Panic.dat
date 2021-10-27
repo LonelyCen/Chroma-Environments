@@ -1,0 +1,108 @@
+"_environment": [{
+                "_id": "TopCones",
+                "_lookupMethod": "Contains",
+                "_scale": [1, 5, 1]
+            }, {
+                "_id": "Window",
+                "_lookupMethod": "Contains",
+                "_scale": [30, 30, 20],
+                "_position": [0, 40, 87],
+                "_rotation": [0, 0, 0]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]Spectrograms\\.\\[1\\]Spectrogram$",
+                "_lookupMethod": "Regex",
+                "_position": [17, 1.6, 72.4],
+                "_rotation": [90, 180, 20]
+            }, {
+                "_id": "TrackMirror",
+                "_lookupMethod": "Contains",
+                "_active": false
+            }, {
+                "_id": "TrackConstruction",
+                "_lookupMethod": "Contains",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]Spectrograms\\.\\[0\\]Spectrogram$",
+                "_lookupMethod": "Regex",
+                "_position": [-17, 1.6, 72.4],
+                "_rotation": [90, 180, -20]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RotatingLasersPair \\(1\\)$",
+                "_lookupMethod": "Regex",
+                "_position": [0, -56, 92],
+                "_rotation": [0, 0, 51],
+                "_scale": [5, 5, 5]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RotatingLasersPair$",
+                "_lookupMethod": "Regex",
+                "_position": [72, 4.8, 104],
+                "_rotation": [0, 137.1, 17.14],
+                "_scale": [5, 5, 5]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RotatingLasersPair \\(2\\)$",
+                "_lookupMethod": "Regex",
+                "_position": [-72, -24, 72],
+                "_rotation": [0, 17.14, 0],
+                "_scale": [5, 5, 5]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RotatingLasersPair \\(3\\)$",
+                "_lookupMethod": "Regex",
+                "_position": [72, -40, 64],
+                "_rotation": [10, 334.2, 0],
+                "_scale": [5, 5, 5]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RotatingLasersPair \\(4\\)$",
+                "_lookupMethod": "Regex",
+                "_position": [-64, -64, 64],
+                "_rotation": [0, 34.29, 0],
+                "_scale": [5, 5, 5]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RotatingLasersPair \\(5\\)$",
+                "_lookupMethod": "Regex",
+                "_position": [72, -56, 48],
+                "_rotation": [351.4, 0, 0],
+                "_scale": [5, 5, 5]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]RotatingLasersPair \\(6\\)$",
+                "_lookupMethod": "Regex",
+                "_position": [-48, -56, 24],
+                "_rotation": [17.14, 0, 17.14],
+                "_scale": [5, 5, 5]
+            }, {
+                "_id": "BottomCones",
+                "_lookupMethod": "Contains",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]ConstructionGlowLine \\(8\\)$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]ConstructionGlowLine \\(15\\)$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]ConstructionGlowLine \\(4\\)$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]ConstructionGlowLine \\(5\\)$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]ConstructionGlowLine \\(6\\)$",
+                "_lookupMethod": "Regex",
+                "_position": [-9.6, -8, 88.16],
+                "_rotation": [358.9, 0, 0.8],
+                "_scale": [5, 5, 5]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]ConstructionGlowLine \\(7\\)$",
+                "_lookupMethod": "Regex",
+                "_position": [9.6, -8, 88.16],
+                "_rotation": [358.9, 0, 358.9],
+                "_scale": [5, 5, 5]
+            }, {
+                "_id": ".*GameCore\\.\\[\\d*\\]Panels4TrackLaneRing\\(Clone\\)$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 2.5, 5]
+            }
+        ]
