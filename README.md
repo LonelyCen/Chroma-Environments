@@ -9,7 +9,7 @@ Here you can find a repository of all my custom environments I have done that yo
  
  If I find any environments that were yoinked without credit, I'll be very sad :(
 
-<h1> Requirement's</h1>
+<h1> Requirements</h1>
 
 All environment's will be made for the newest version of Beat Saber with fixes *hopefully* coming out as soon as they are needed
 
