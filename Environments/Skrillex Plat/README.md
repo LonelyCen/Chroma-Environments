@@ -2,4 +2,4 @@
 More recent environment, release is TBD
 
 <h1> Static Environment</h1>
-<img src="https://github.com/LonelyCen/Lonelys-Environments/blob/main/Environments/Panic%20Plat/Panic%20Example.png">
+<img src="https://github.com/LonelyCen/Lonelys-Environments/blob/main/Environments/Skrillex%20Plat/Skrillex%20Example.png">
