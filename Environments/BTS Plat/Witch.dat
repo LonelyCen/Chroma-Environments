@@ -1,0 +1,142 @@
+"_environment": [{
+                "_id": ".*Environment\\.\\[\\d*\\]Clouds\\.\\[\\d*\\]HighCloudsGenerator$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, -1, 1],
+                "_position": [0, 48, 160],
+                "_localPosition": [0, 56.8, 160],
+                "_rotation": [0, 274, 240]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]Clouds\\.\\[\\d*\\]LowCloudsGenerator$",
+                "_lookupMethod": "Regex",
+                "_position": [0, 48, 160],
+                "_localPosition": [0, 56.8, 160],
+                "_rotation": [0, 270, 304.2]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]MagicDoorSprite$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]GlowLineH$",
+                "_lookupMethod": "Regex",
+                "_position": [0, 0, 160],
+                "_localPosition": [0, 0, 160],
+                "_rotation": [0, 0, 180]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]GlowLineH \\(\\d*\\)$",
+                "_lookupMethod": "Regex",
+                "_position": [0, 0, 160],
+                "_localPosition": [0, 0, 160],
+                "_rotation": [0, 0, 180]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]SideLaser$",
+                "_lookupMethod": "Regex",
+                "_position": [0, 0, 160],
+                "_localPosition": [0, 0, 160],
+                "_rotation": [0, 0, 0]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PillarPair$",
+                "_lookupMethod": "Regex",
+                "_scale": [0.5, 5, 0.5],
+                "_position": [0, -2.896, 64]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]SmallPillarPair$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 1, 1],
+                "_position": [0, 50, 133.333],
+                "_rotation": [350, 0, 0]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]SmallPillarPair\\.\\[0\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [0, 50, 133.333]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]SmallPillarPair\\.\\[1\\]PillarR$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [0, 50, 133.333]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]SmallPillarPair \\(1\\)$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [0, 65, 134],
+                "_rotation": [280, 0, 0]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]SmallPillarPair \\(1\\)\\.\\[0\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_position": [-14, 65, 133]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]SmallPillarPair \\(1\\)\\.\\[1\\]PillarR$",
+                "_lookupMethod": "Regex",
+                "_position": [14, 65, 133]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]SmallPillarPair \\(2\\)$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [0, 45, 142],
+                "_rotation": [275, 0, 0]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]SmallPillarPair \\(3\\)$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 2, 2],
+                "_position": [0, 25, 151],
+                "_rotation": [270, 0, 0]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]SmallPillarPair \\(3\\)\\.\\[0\\]PillarL$",
+                "_lookupMethod": "Regex",
+                "_position": [-14, 25, 151]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]SmallPillarPair \\(3\\)\\.\\[1\\]PillarR$",
+                "_lookupMethod": "Regex",
+                "_position": [14, 25, 151]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PillarPair \\(1\\)$",
+                "_lookupMethod": "Regex",
+                "_scale": [1, 5, 1],
+                "_position": [0, -0.464, 80]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PillarPair \\(2\\)$",
+                "_lookupMethod": "Regex",
+                "_scale": [1.5, 5, 1.5],
+                "_position": [0, 2.627, 96]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PillarPair \\(3\\)$",
+                "_lookupMethod": "Regex",
+                "_scale": [2, 5, 2],
+                "_position": [0, 7.232, 112]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PillarPair \\(4\\)$",
+                "_lookupMethod": "Regex",
+                "_scale": [2.5, 5, 2.5],
+                "_position": [0, 11.2, 128]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PlayersPlace\\.\\[0\\]Mirror$",
+                "_lookupMethod": "Regex",
+                "_active": true
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PlayersPlace\\.\\[2\\]Construction$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]Construction$",
+                "_lookupMethod": "Regex",
+                "_active": true
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]TrackMirror$",
+                "_lookupMethod": "Regex",
+                "_active": true
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PillarTrackLaneRingsR$",
+                "_lookupMethod": "Regex",
+                "_position": [16, -24, 16],
+                "_rotation": [354, 48.43, 358]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]PillarTrackLaneRingsR \\(1\\)$",
+                "_lookupMethod": "Regex",
+                "_position": [-16, -24, 16],
+                "_rotation": [355, 314.5, 270]
+            }, {
+                "_id": ".*Environment\\.\\[\\d*\\]BottomGlow$",
+                "_lookupMethod": "Regex",
+                "_active": false
+            }
+        ]
