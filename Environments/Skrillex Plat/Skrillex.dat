@@ -1,0 +1,208 @@
+{
+  "_version" : "2.2.0",
+  "_notes" : [
+  ],
+  "_obstacles" : [
+  ],
+  "_events" : [],
+  "_waypoints" : [
+  ],
+  "_customData" : {
+    "_environment" : [
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]TrackTL$",
+        "_lookupMethod" : "Regex",
+        "_scale" : [1.5,1.5,1.5],
+        "_position" : [-40,240,160],
+        "_rotation" : [90,124.2,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]TrackTR$",
+        "_lookupMethod" : "Regex",
+        "_scale" : [1.5,1.5,1.5],
+        "_position" : [40,240,160],
+        "_rotation" : [90,145.7,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]TrackBR$",
+        "_lookupMethod" : "Regex",
+        "_scale" : [3,3,3],
+        "_position" : [72,480,112],
+        "_rotation" : [90,185,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]TrackBL$",
+        "_lookupMethod" : "Regex",
+        "_scale" : [3,3,3],
+        "_position" : [-72,480,112],
+        "_rotation" : [90,90,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]LogoL",
+        "_lookupMethod" : "Regex",
+        "_active" : false
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]LogoR",
+        "_lookupMethod" : "Regex",
+        "_active" : false
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]LeftLaser$",
+        "_lookupMethod" : "Regex",
+        "_position" : [-5,-4.8,2100],
+        "_rotation" : [90,180,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]RightLaser$",
+        "_lookupMethod" : "Regex",
+        "_position" : [5,-4.8,2100],
+        "_rotation" : [90,180,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]SkrillexLogo",
+        "_lookupMethod" : "Regex",
+        "_active" : false
+      },
+      {
+        "_id" : ".*GameCore\\.\\[\\d*\\]SkrillexTrackRing1\\(Clone\\)\\.\\[\\d*\\]NeonTubeBothSidesDirectional \\(6\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [1,2,1]
+      },
+      {
+        "_id" : ".*GameCore\\.\\[\\d*\\]SkrillexTrackRing2\\(Clone\\)\\.\\[\\d*\\]NeonTubeBothSidesDirectional \\(6\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [1,2,1]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]SideMoveLasers$",
+        "_lookupMethod" : "Regex",
+        "_scale" : [1,500,1],
+        "_position" : [0,8,0],
+        "_rotation" : [45,0,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide$",
+        "_lookupMethod" : "Regex",
+        "_position" : [-16,8,40],
+        "_rotation" : [51.43,251.4,171.4]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(1\\)",
+        "_lookupMethod" : "Regex",
+        "_rotation" : [51.43,80,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(2\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [1,1.5,1],
+        "_position" : [-8.8,-2.176,64],
+        "_rotation" : [334.2,131.4,68.57]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(3\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [2,2,2],
+        "_position" : [-15.2,32.8,104],
+        "_rotation" : [325.7,80,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(4\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [3,3,3],
+        "_position" : [-48,0,144],
+        "_rotation" : [25.71,217.1,308.5]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(5\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [5,5,5],
+        "_position" : [-1.6,72.8,184],
+        "_rotation" : [317.1,0,308.5]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(6\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [4,4,4],
+        "_position" : [-15.2,16.8,224],
+        "_rotation" : [34.29,80,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(7\\)",
+        "_lookupMethod" : "Regex",
+        "_position" : [8,8,20.8],
+        "_rotation" : [51.43,194.2,34.29]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(8\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [1,1.5,1],
+        "_position" : [15.2,-3.696,48],
+        "_rotation" : [77.14,288.5,317.1]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(9\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [2,2,2],
+        "_position" : [8,19.2,64],
+        "_rotation" : [25.71,194.2,325.7]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(10\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [3,2.5,2],
+        "_position" : [16,-2.176,104],
+        "_rotation" : [25.71,228.4,325.7]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(11\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [5,5,5],
+        "_position" : [63.2,8,144],
+        "_rotation" : [300,245.7,188.5]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(12\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [5,5,5],
+        "_position" : [15.2,8,184],
+        "_rotation" : [334.2,280,34.29]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]NeonSide \\(13\\)",
+        "_lookupMethod" : "Regex",
+        "_scale" : [5,5,5],
+        "_position" : [8,40,224],
+        "_rotation" : [17.15,245.7,154.2]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]TrackTL\\.\\[\\d*\\]NeonSide",
+        "_lookupMethod" : "Regex",
+        "_scale" : [5,2,2],
+        "_rotation" : [90,270,180],
+        "_localRotation" : [90,90,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]TrackTR\\.\\[\\d*\\]NeonSide",
+        "_lookupMethod" : "Regex",
+        "_scale" : [5,2,2],
+        "_rotation" : [90,270,180],
+        "_localRotation" : [90,90,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]TrackBR\\.\\[\\d*\\]NeonSide",
+        "_lookupMethod" : "Regex",
+        "_scale" : [5,2,2],
+        "_rotation" : [90,270,180],
+        "_localRotation" : [90,90,0]
+      },
+      {
+        "_id" : ".*Environment\\.\\[\\d*\\]TrackBL\\.\\[\\d*\\]NeonSide",
+        "_lookupMethod" : "Regex",
+        "_scale" : [5,2,2],
+        "_rotation" : [90,270,180],
+        "_localRotation" : [90,90,0]
+      }
+    ]
+  }
+}
