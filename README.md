@@ -23,7 +23,7 @@ CustomJSONData 2.0.7
 <h1> Extra Information</h1>
 
    If you want any extra help with anything in reguards to environment enhancements, questions/help with anything chroma related, feel free
-   to DM me on discord :D ---> Lone#5260
+   to DM me on discord :D You can also reach out to me if you want your own environment or edits of these added to the Github ---> Lone#5260
    
    Any other info can be found on the origional Environment Enhancement documentation here ---> https://github.com/Aeroluna/Heck/wiki/Environment
 
