@@ -1,4 +1,4 @@
-# Lonelys-Environments
+# Lonelys Environments
 Here you can find a repository of all my custom environments I have done that you can use in your own maps!
 
 <h1> Important Info</h1>
