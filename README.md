@@ -1,13 +1,13 @@
-# Lonelys Environments
-Here you can find a repository of all my custom environments I have done that you can use in your own maps!
+# Chroma Environments
+Here you can find a repository of custom environments that you can use in your own maps!
 
 <h1> Important Info</h1>
-     Even though the environments are all free to use, make sure to credit me in some way for the environment creation if its left untouched. Where you leave credit doesn't matter
+     Even though the environments are all free to use, make sure to credit the creator in some way for the environment creation if its left untouched. Where you leave credit doesn't matter
      as long as it is given :D 
      
-  Editing the environments is also fine with me, again, just make sure its specified. For example, Environment by Lonely (Edited by *Your name*)! 
+  Editing the environments is also fine, again, just make sure its specified. For example, Environment by X (Edited by *Your name*)! 
  
- If I find any environments that were yoinked without credit, I'll be very sad :(
+ If I find any environments that were yoinked without credit, we'll be very sad :(
 
 <h1> Requirements</h1>
 
