@@ -1,4 +1,6 @@
 # Billie Enviro Enhanced
+*Done by Lonely*
+
 My most recent and most advanced environment created for halloween, but current note about it is Billie is currently unsupported by ChroMapper, so it's much harder to use.
 
 <h1> Static Environment</h1>
