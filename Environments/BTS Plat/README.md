@@ -1,6 +1,7 @@
 # BTS Enviro Enhanced
+*Done by Lonely*
 You may recognize this environment from "The 15 Sublimit" map Mawntee and myself did. This is the origional edit for the
-environment!
+environment! 
 
 <h1> Static Environment</h1>
 <img src="https://github.com/LonelyCen/Lonelys-Environments/blob/main/Environments/BTS%20Plat/BTS%20Example.png">
